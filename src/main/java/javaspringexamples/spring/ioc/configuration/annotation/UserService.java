@@ -1,8 +1,8 @@
-package com.codercocoon.spring.ioc.configuration.annotation;
+package javaspringexamples.spring.ioc.configuration.annotation;
 
 /**
  * 
- * @author contact@codercocoon.com
+ * @author mounir.sahrani@gmail.com
  *
  */
 public interface UserService {

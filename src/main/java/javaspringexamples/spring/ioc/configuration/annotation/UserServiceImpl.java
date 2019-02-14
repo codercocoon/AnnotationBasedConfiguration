@@ -1,11 +1,11 @@
-package com.codercocoon.spring.ioc.configuration.annotation;
+package javaspringexamples.spring.ioc.configuration.annotation;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 /**
  * 
- * @author contact@codercocoon.com
+ * @author mounir.sahrani@gmail.com
  *
  */
 
