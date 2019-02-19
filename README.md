@@ -9,3 +9,5 @@ The technologies used are :
 You can convert this example to an Eclipse IDE project by going to folder where is the pom.xml is, and use the command :
 
 mvn eclipse:eclipse
+
+Inspired from "Beginning Spring" Mert Caliskan, Kenan Sevindik, Rod Johnson (Foreword by), Jürgen Höller (Foreword by).
